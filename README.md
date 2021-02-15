@@ -1,1 +1,1 @@
-# CompOrganization
+# Computer Organization

@@ -12,4 +12,3 @@
 <br>
 ![header image](7.png)
 ![header image](6.png)
-![header image](3.png)
